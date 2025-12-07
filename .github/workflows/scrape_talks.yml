@@ -6,12 +6,12 @@ permissions:
 
 on:
   push:
-    branches:
-      - master 
-    # paths:
-    #   - 'talks/**'
-    #   - '_talks/**'
-    #   - 'talkmap.ipynb'
+    # branches:
+    #   - master 
+    paths:
+      - 'talks/**'
+      - '_talks/**'
+      - 'talkmap.ipynb'
 
 jobs:
   build:
