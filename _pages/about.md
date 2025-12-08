@@ -17,16 +17,13 @@ My research centers on Sketch4ML, where I focus on designing memory- and computa
 
 - **[Matrix Sketching in Bandits: Current Pitfalls and New Framework](https://arxiv.org/abs/2410.10258)**  
   **Dongxie Wen**, Hanyan Yin, Xiao Zhang, Zhewei Wei.
-
   ArXiv. [\[Paper\]](https://arxiv.org/abs/2410.10258)
 
 - **[Fast Second-Order Online Kernel Learning through Incremental Matrix Sketching and Decomposition](https://arxiv.org/abs/2410.11188)**  
   **Dongxie Wen**, Xiao Zhang\*, Zhewei Wei\*, Chenping Hou, Shuai Li, Weinan Zhang.
-
   In IJCAI, 2025. [\[Paper\]](https://www.ijcai.org/proceedings/2025/729) [\[Blog\]](https://mp.weixin.qq.com/s/8MoL2aQX-A93Zhj9uvE05w)
 
 - **[Optimal Matrix Sketching over Sliding Windows](https://arxiv.org/abs/2405.07792)** <span style="color:red;">(Best Paper Candidate Award)</span>
   
   Hanyan Yin, **Dongxie Wen**, Jiajun Li, Zhewei Wei\*, Xiao Zhang, Zengfeng Huang, Feifei Li.
-
   In VLDB, 2024. [\[Paper\]](https://arxiv.org/abs/2405.07792) [\[Code\]](https://github.com/yinhanyan/DS-FD) [\[Award\]](http://www.lianpp.com/ruc/mu_ai/english/gsainews/20240926101.html)
