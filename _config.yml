@@ -29,7 +29,7 @@ author:
   location         : "Beijing"
   employer         : "Renmin University of China"
   uri              : # URL
-  email            : "2019202221@ruc.edu.cn" 
+  email            : "dongxie@ruc.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
